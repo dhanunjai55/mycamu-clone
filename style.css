@@ -1,0 +1,23 @@
+#sidebar{
+    float: left;
+    height: 100vh;
+    width: 25%;
+    background-color: rgb(164, 219, 201);
+
+}
+#main{float: right;
+    height: 100vh;
+    width: 75%;
+    background-color: rgb(221, 180, 129);
+}
+#camulogo {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50%;
+    max-width: fit-content;
+  }
+#gplaylogo{
+    margin-bottom: 10%;
+    margin-left: 10%;
+    max-width: fit-content;
+}
